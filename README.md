@@ -1,4 +1,4 @@
-# Benchmark 1. "TemplateName"
+# Benchmark 6. "Model-based design reviews"
 
 This is a template that details the expected Minimum Viable Content of a benchmark including the documentation and the data.
 
