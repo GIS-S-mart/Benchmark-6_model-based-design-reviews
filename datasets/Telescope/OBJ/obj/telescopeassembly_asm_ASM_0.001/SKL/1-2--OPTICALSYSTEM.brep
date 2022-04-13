@@ -1,0 +1,123 @@
+Solid
+Shell
+Face 1 Cylinder
+Face-Cylinder-origin 1 -1.56125e-17 -5.55112e-17 0
+Face-Cylinder-axis 1 3.46637e-18 1.81894e-19 1
+Face-Cylinder-radius 1 0.06
+Face-Cylinder-xaxis 1 0 1 0
+Face-Cylinder-yaxis 1 -1 3.46945e-18 0
+Face-uv-bounding-box 1 3.14159 -0.2 6.28319 0.2
+Face-bounding-box 1 -1e-07 -0.0649436 -0.2 0.0649436 0.0649436 0.2
+Face-orientation 1 forward
+
+Face 2 Cylinder
+Face-Cylinder-origin 2 -1.56125e-17 -5.55112e-17 0
+Face-Cylinder-axis 2 -3.46637e-18 -1.81894e-19 -1
+Face-Cylinder-radius 2 0.06
+Face-Cylinder-xaxis 2 0 1 0
+Face-Cylinder-yaxis 2 1 -3.46945e-18 -0
+Face-uv-bounding-box 2 3.14159 -0.2 6.28319 0.2
+Face-bounding-box 2 -0.0649436 -0.0649436 -0.2 1e-07 0.0649436 0.2
+Face-orientation 2 forward
+
+Face 3 Plane
+Face-Plane-origin 3 -1.47451e-17 0.055 0
+Face-Plane-normal 3 0 -1 0
+Face-Plane-xaxis 3 -1 3.46945e-18 0
+Face-Plane-yaxis 3 -3.46637e-18 -1.81894e-19 -1
+Face-uv-bounding-box 3 0.0239792 -0.0180278 0.03 0.0180278
+Face-bounding-box 3 -0.0321508 0.0549999 -0.0195132 -0.0239791 0.0550001 0.0195132
+Face-orientation 3 forward
+
+Face 4 Cylinder
+Face-Cylinder-origin 4 -1.47451e-17 0.055 0
+Face-Cylinder-axis 4 0 -1 0
+Face-Cylinder-radius 4 0.03
+Face-Cylinder-xaxis 4 -1 3.46945e-18 0
+Face-Cylinder-yaxis 4 -3.46637e-18 -1.81894e-19 -1
+Face-uv-bounding-box 4 4.71239 -0.015 7.85398 2.03288e-20
+Face-bounding-box 4 -0.0324719 0.0549999 -0.0324719 1e-07 0.0700001 0.0324719
+Face-orientation 4 forward
+
+Face 5 Cylinder
+Face-Cylinder-origin 5 -1.47451e-17 0.055 0
+Face-Cylinder-axis 5 0 1 0
+Face-Cylinder-radius 5 0.03
+Face-Cylinder-xaxis 5 1 -3.46945e-18 -0
+Face-Cylinder-yaxis 5 -3.46637e-18 -1.81894e-19 -1
+Face-uv-bounding-box 5 4.71239 -1.35525e-20 7.85398 0.015
+Face-bounding-box 5 -1e-07 0.0549999 -0.0324719 0.0324719 0.0700001 0.0324719
+Face-orientation 5 forward
+
+Face 6 Plane
+Face-Plane-origin 6 -1.47451e-17 0.07 0
+Face-Plane-normal 6 0 1 0
+Face-Plane-xaxis 6 1 -3.46945e-18 -0
+Face-Plane-yaxis 6 -3.46637e-18 -1.81894e-19 -1
+Face-uv-bounding-box 6 -0.03 -0.03 0.03 0.03
+Face-bounding-box 6 -0.0324719 0.0699999 -0.0324719 0.0324719 0.0700001 0.0324719
+Face-orientation 6 forward
+
+Face 7 Plane
+Face-Plane-origin 7 -1.47451e-17 0.055 0
+Face-Plane-normal 7 0 1 0
+Face-Plane-xaxis 7 1 -3.46945e-18 -0
+Face-Plane-yaxis 7 -3.46637e-18 -1.81894e-19 -1
+Face-uv-bounding-box 7 0.0239792 -0.0180278 0.03 0.0180278
+Face-bounding-box 7 0.0239791 0.0549999 -0.0195132 0.0321508 0.0550001 0.0195132
+Face-orientation 7 reversed
+
+Face 8 Plane
+Face-Plane-origin 8 -1.47451e-17 -5.55112e-17 0.2
+Face-Plane-normal 8 3.46637e-18 1.81894e-19 1
+Face-Plane-xaxis 8 0 1 0
+Face-Plane-yaxis 8 -1 3.46945e-18 0
+Face-uv-bounding-box 8 -0.06 -0.06 0.06 0.06
+Face-bounding-box 8 -0.0649436 -0.0649436 0.2 0.0649436 0.0649436 0.2
+Face-orientation 8 forward
+
+Face 9 Plane
+Face-Plane-origin 9 -1.64799e-17 -5.55112e-17 -0.2
+Face-Plane-normal 9 3.46637e-18 1.81894e-19 1
+Face-Plane-xaxis 9 0 1 0
+Face-Plane-yaxis 9 -1 3.46945e-18 0
+Face-uv-bounding-box 9 -0.06 -0.06 0.06 0.06
+Face-bounding-box 9 -0.0649436 -0.0649436 -0.2 0.0649436 0.0649436 -0.2
+Face-orientation 9 reversed
+
+EndShell
+
+EndSolid
+
+
+
+#---------- Polyedron decomposition
+
+Face-obj-nb-vertex 1 58
+Face-obj-nb-face 1 56
+
+Face-obj-nb-vertex 2 58
+Face-obj-nb-face 2 56
+
+Face-obj-nb-vertex 3 4
+Face-obj-nb-face 3 2
+
+Face-obj-nb-vertex 4 27
+Face-obj-nb-face 4 25
+
+Face-obj-nb-vertex 5 30
+Face-obj-nb-face 5 28
+
+Face-obj-nb-vertex 6 32
+Face-obj-nb-face 6 30
+
+Face-obj-nb-vertex 7 7
+Face-obj-nb-face 7 5
+
+Face-obj-nb-vertex 8 48
+Face-obj-nb-face 8 46
+
+Face-obj-nb-vertex 9 48
+Face-obj-nb-face 9 46
+
+

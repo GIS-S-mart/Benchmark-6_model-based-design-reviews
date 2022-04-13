@@ -1,0 +1,1469 @@
+{
+  "__class__": "Mechanism",
+  "__uid__": "8cb97765-82b8-11ec-adcf-b1120ec825a1",
+  "body": {},
+  "frame": {
+    "__class__": "FrameSequence",
+    "__uid__": "8cb97784-82b8-11ec-adcf-b1120ec825a1",
+    "current": "init",
+    "frame": [
+      "init"
+    ]
+  },
+  "ground": [],
+  "joint": [],
+  "root_article": [
+    {
+      "__class__": "Assembly",
+      "__uid__": "8cb97766-82b8-11ec-adcf-b1120ec825a1",
+      "bounding_box": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "component": [
+        {
+          "__class__": "Component",
+          "__uid__": "8cb97767-82b8-11ec-adcf-b1120ec825a1",
+          "axis1": [
+            -3.09065e-16,
+            0.547096,
+            0.83707
+          ],
+          "axis2": [
+            1.0,
+            1.93437e-16,
+            2.42795e-16
+          ],
+          "axis3": [
+            -2.90886e-17,
+            0.83707,
+            -0.547096
+          ],
+          "bounding_box": [
+            -0.135299,
+            -1e-07,
+            -0.135299,
+            0.135299,
+            0.352472,
+            0.135299
+          ],
+          "center": [
+            -3.5832e-19,
+            0.059892,
+            -0.0181106
+          ],
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "father": {
+            "__reference__": "8cb97766-82b8-11ec-adcf-b1120ec825a1"
+          },
+          "frame": {
+            "init": [
+              [
+                1,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "gyration_radius": [
+            0,
+            0,
+            0
+          ],
+          "hidden": false,
+          "index": "",
+          "inertia": [
+            3.6362e-05,
+            3.54332e-05,
+            1.84058e-05
+          ],
+          "locked": true,
+          "mass": 0.00300506,
+          "mesh_rep": "file://OBJ/1-1--SUPPORT.obj",
+          "name": "SUPPORT",
+          "position": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "topologic_surface": {
+            "__class__": "TopologicSurface",
+            "__uid__": "8cb97768-82b8-11ec-adcf-b1120ec825a1",
+            "connexion": {},
+            "cpt": 16,
+            "face": {
+              "0": {
+                "__class__": "Plane",
+                "__uid__": "8cb97769-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.135299,
+                  -1e-07,
+                  -0.135299,
+                  0.135299,
+                  1e-07,
+                  0.135299
+                ],
+                "bounding_box_uv": [
+                  -0.125,
+                  -0.125,
+                  0.125,
+                  0.125
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "orientation": false,
+                "origin": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ]
+              },
+              "1": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9776a-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "bounding_box": [
+                  -0.135299,
+                  -1e-07,
+                  -1e-07,
+                  0.135299,
+                  0.0500001,
+                  0.135299
+                ],
+                "bounding_box_uv": [
+                  3.14159,
+                  0.0,
+                  6.28319,
+                  0.05
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "radius": 0.125,
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ]
+              },
+              "2": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9776b-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "bounding_box": [
+                  -0.135299,
+                  -1e-07,
+                  -0.135299,
+                  0.135299,
+                  0.0500001,
+                  1e-07
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.0,
+                  3.14159,
+                  0.05
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "radius": 0.125,
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ]
+              },
+              "3": {
+                "__class__": "Plane",
+                "__uid__": "8cb9776c-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.135299,
+                  0.0499999,
+                  -0.135299,
+                  0.135299,
+                  0.0500001,
+                  0.135299
+                ],
+                "bounding_box_uv": [
+                  -0.125,
+                  -0.125,
+                  0.125,
+                  0.125
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.05,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ]
+              },
+              "4": {
+                "__class__": "Plane",
+                "__uid__": "8cb9776d-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0200001,
+                  0.0499999,
+                  -0.123,
+                  -0.0199999,
+                  0.35,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.0,
+                  0.04,
+                  0.3
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  -1.0,
+                  0.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -0.02,
+                  0.05,
+                  -0.123
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "5": {
+                "__class__": "Plane",
+                "__uid__": "8cb9776e-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0324719,
+                  0.295797,
+                  -0.0830001,
+                  -0.0199999,
+                  0.344203,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  -0.03,
+                  -0.0523607,
+                  -0.02,
+                  -0.00763932
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": false,
+                "origin": [
+                  0.0,
+                  0.35,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "6": {
+                "__class__": "Plane",
+                "__uid__": "8cb9776f-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  0.0199999,
+                  0.295797,
+                  -0.0830001,
+                  0.0324719,
+                  0.344203,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  0.02,
+                  -0.0523607,
+                  0.03,
+                  -0.00763932
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": false,
+                "origin": [
+                  0.0,
+                  0.35,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "7": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb97770-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "bounding_box": [
+                  -0.0324719,
+                  0.32,
+                  -0.0830001,
+                  0.0324719,
+                  0.352472,
+                  -0.0579999
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.0,
+                  3.14159,
+                  0.025
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.32,
+                  -0.083
+                ],
+                "radius": 0.03,
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "8": {
+                "__class__": "Plane",
+                "__uid__": "8cb97771-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -1e-07,
+                  0.342361,
+                  -0.0830001,
+                  0.0216479,
+                  0.352472,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  0.02,
+                  0.292361,
+                  0.04,
+                  0.3
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -0.02,
+                  0.05,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "9": {
+                "__class__": "Plane",
+                "__uid__": "8cb97772-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0216479,
+                  0.342361,
+                  -0.0830001,
+                  1e-07,
+                  0.352472,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.292361,
+                  0.02,
+                  0.3
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -0.02,
+                  0.05,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "10": {
+                "__class__": "Plane",
+                "__uid__": "8cb97773-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0216479,
+                  0.0499999,
+                  -0.0830001,
+                  0.0216479,
+                  0.297639,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  -1.00267e-15,
+                  0.0,
+                  0.04,
+                  0.247639
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -0.02,
+                  0.05,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "11": {
+                "__class__": "Plane",
+                "__uid__": "8cb97774-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0200001,
+                  0.35,
+                  -0.123,
+                  0.0200001,
+                  0.35,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  -0.123,
+                  -0.02,
+                  -0.083,
+                  0.02
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.35,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "yaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "12": {
+                "__class__": "Plane",
+                "__uid__": "8cb97775-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0200001,
+                  0.0499999,
+                  -0.123,
+                  0.0200001,
+                  0.35,
+                  -0.123
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.0,
+                  0.04,
+                  0.3
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  0.02,
+                  0.05,
+                  -0.123
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  -1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "13": {
+                "__class__": "Plane",
+                "__uid__": "8cb97776-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  0.0199999,
+                  0.0499999,
+                  -0.123,
+                  0.0200001,
+                  0.35,
+                  -0.0829999
+                ],
+                "bounding_box_uv": [
+                  0.0,
+                  0.0,
+                  0.04,
+                  0.3
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  0.02,
+                  0.05,
+                  -0.083
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "14": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb97777-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "bounding_box": [
+                  -0.0324719,
+                  0.287528,
+                  -0.0830001,
+                  0.0324719,
+                  0.32,
+                  -0.0579999
+                ],
+                "bounding_box_uv": [
+                  3.14159,
+                  0.0,
+                  6.28319,
+                  0.025
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.32,
+                  -0.083
+                ],
+                "radius": 0.03,
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              "15": {
+                "__class__": "Plane",
+                "__uid__": "8cb97778-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0324719,
+                  0.287528,
+                  -0.0580001,
+                  0.0324719,
+                  0.352472,
+                  -0.0579999
+                ],
+                "bounding_box_uv": [
+                  -0.03,
+                  -0.06,
+                  0.03,
+                  -2.77556e-17
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  0.0,
+                  0.35,
+                  -0.058
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                "yaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              }
+            },
+            "is_volume": false
+          }
+        },
+        {
+          "__class__": "Component",
+          "__uid__": "8cb97779-82b8-11ec-adcf-b1120ec825a1",
+          "axis1": [
+            1.0,
+            7.93458e-09,
+            4.0459e-12
+          ],
+          "axis2": [
+            -7.93458e-09,
+            1.0,
+            1.12823e-12
+          ],
+          "axis3": [
+            -4.0459e-12,
+            -1.12823e-12,
+            1.0
+          ],
+          "bounding_box": [
+            -0.0649436,
+            -0.0649436,
+            -0.2,
+            0.0649436,
+            0.0700001,
+            0.2
+          ],
+          "center": [
+            6.41541e-11,
+            0.000469013,
+            9.33796e-13
+          ],
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "father": {
+            "__reference__": "8cb97766-82b8-11ec-adcf-b1120ec825a1"
+          },
+          "frame": {
+            "init": [
+              [
+                -0.0211844,
+                0,
+                -0.999776,
+                0
+              ],
+              [
+                0.999776,
+                0,
+                -0.0211844,
+                0.32
+              ],
+              [
+                0,
+                -1,
+                0,
+                0.012
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "gyration_radius": [
+            0,
+            0,
+            0
+          ],
+          "hidden": false,
+          "index": "",
+          "inertia": [
+            6.45334e-05,
+            6.44058e-05,
+            8.28776e-06
+          ],
+          "locked": true,
+          "mass": 0.00455731,
+          "mesh_rep": "file://OBJ/1-2--OPTICALSYSTEM.obj",
+          "name": "OPTICALSYSTEM",
+          "position": [
+            [
+              -0.0211844,
+              0,
+              -0.999776,
+              0
+            ],
+            [
+              0.999776,
+              0,
+              -0.0211844,
+              0.32
+            ],
+            [
+              0,
+              -1,
+              0,
+              0.012
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "topologic_surface": {
+            "__class__": "TopologicSurface",
+            "__uid__": "8cb9777a-82b8-11ec-adcf-b1120ec825a1",
+            "connexion": {},
+            "cpt": 9,
+            "face": {
+              "0": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9777b-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  3.46637e-18,
+                  1.81894e-19,
+                  1.0
+                ],
+                "bounding_box": [
+                  -1e-07,
+                  -0.0649436,
+                  -0.2,
+                  0.0649436,
+                  0.0649436,
+                  0.2
+                ],
+                "bounding_box_uv": [
+                  3.14159,
+                  -0.2,
+                  6.28319,
+                  0.2
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  -1.56125e-17,
+                  -5.55112e-17,
+                  0.0
+                ],
+                "radius": 0.06,
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "yaxis": [
+                  -1.0,
+                  3.46945e-18,
+                  0.0
+                ]
+              },
+              "1": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9777c-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ],
+                "bounding_box": [
+                  -0.0649436,
+                  -0.0649436,
+                  -0.2,
+                  1e-07,
+                  0.0649436,
+                  0.2
+                ],
+                "bounding_box_uv": [
+                  3.14159,
+                  -0.2,
+                  6.28319,
+                  0.2
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  -1.56125e-17,
+                  -5.55112e-17,
+                  0.0
+                ],
+                "radius": 0.06,
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "yaxis": [
+                  1.0,
+                  -3.46945e-18,
+                  -0.0
+                ]
+              },
+              "2": {
+                "__class__": "Plane",
+                "__uid__": "8cb9777d-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0321508,
+                  0.0549999,
+                  -0.0195132,
+                  -0.0239791,
+                  0.0550001,
+                  0.0195132
+                ],
+                "bounding_box_uv": [
+                  0.0239792,
+                  -0.0180278,
+                  0.03,
+                  0.0180278
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  -1.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -1.47451e-17,
+                  0.055,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  -1.0,
+                  3.46945e-18,
+                  0.0
+                ],
+                "yaxis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ]
+              },
+              "3": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9777e-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  -1.0,
+                  0.0
+                ],
+                "bounding_box": [
+                  -0.0324719,
+                  0.0549999,
+                  -0.0324719,
+                  1e-07,
+                  0.0700001,
+                  0.0324719
+                ],
+                "bounding_box_uv": [
+                  4.71239,
+                  -0.015,
+                  7.85398,
+                  2.03288e-20
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  -1.47451e-17,
+                  0.055,
+                  0.0
+                ],
+                "radius": 0.03,
+                "restriction_loop": [],
+                "xaxis": [
+                  -1.0,
+                  3.46945e-18,
+                  0.0
+                ],
+                "yaxis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ]
+              },
+              "4": {
+                "__class__": "Cylinder",
+                "__uid__": "8cb9777f-82b8-11ec-adcf-b1120ec825a1",
+                "axis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "bounding_box": [
+                  -1e-07,
+                  0.0549999,
+                  -0.0324719,
+                  0.0324719,
+                  0.0700001,
+                  0.0324719
+                ],
+                "bounding_box_uv": [
+                  4.71239,
+                  -1.35525e-20,
+                  7.85398,
+                  0.015
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "orientation": true,
+                "origin": [
+                  -1.47451e-17,
+                  0.055,
+                  0.0
+                ],
+                "radius": 0.03,
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  -3.46945e-18,
+                  -0.0
+                ],
+                "yaxis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ]
+              },
+              "5": {
+                "__class__": "Plane",
+                "__uid__": "8cb97780-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0324719,
+                  0.0699999,
+                  -0.0324719,
+                  0.0324719,
+                  0.0700001,
+                  0.0324719
+                ],
+                "bounding_box_uv": [
+                  -0.03,
+                  -0.03,
+                  0.03,
+                  0.03
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -1.47451e-17,
+                  0.07,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  -3.46945e-18,
+                  -0.0
+                ],
+                "yaxis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ]
+              },
+              "6": {
+                "__class__": "Plane",
+                "__uid__": "8cb97781-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  0.0239791,
+                  0.0549999,
+                  -0.0195132,
+                  0.0321508,
+                  0.0550001,
+                  0.0195132
+                ],
+                "bounding_box_uv": [
+                  0.0239792,
+                  -0.0180278,
+                  0.03,
+                  0.0180278
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "orientation": false,
+                "origin": [
+                  -1.47451e-17,
+                  0.055,
+                  0.0
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  1.0,
+                  -3.46945e-18,
+                  -0.0
+                ],
+                "yaxis": [
+                  -3.46637e-18,
+                  -1.81894e-19,
+                  -1.0
+                ]
+              },
+              "7": {
+                "__class__": "Plane",
+                "__uid__": "8cb97782-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0649436,
+                  -0.0649436,
+                  0.2,
+                  0.0649436,
+                  0.0649436,
+                  0.2
+                ],
+                "bounding_box_uv": [
+                  -0.06,
+                  -0.06,
+                  0.06,
+                  0.06
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  3.46637e-18,
+                  1.81894e-19,
+                  1.0
+                ],
+                "orientation": true,
+                "origin": [
+                  -1.47451e-17,
+                  -5.55112e-17,
+                  0.2
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "yaxis": [
+                  -1.0,
+                  3.46945e-18,
+                  0.0
+                ]
+              },
+              "8": {
+                "__class__": "Plane",
+                "__uid__": "8cb97783-82b8-11ec-adcf-b1120ec825a1",
+                "bounding_box": [
+                  -0.0649436,
+                  -0.0649436,
+                  -0.2,
+                  0.0649436,
+                  0.0649436,
+                  -0.2
+                ],
+                "bounding_box_uv": [
+                  -0.06,
+                  -0.06,
+                  0.06,
+                  0.06
+                ],
+                "ctrl_points": [],
+                "degree_u": 0,
+                "degree_v": 0,
+                "knots_u": [],
+                "knots_v": [],
+                "normal": [
+                  3.46637e-18,
+                  1.81894e-19,
+                  1.0
+                ],
+                "orientation": false,
+                "origin": [
+                  -1.64799e-17,
+                  -5.55112e-17,
+                  -0.2
+                ],
+                "restriction_loop": [],
+                "xaxis": [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                "yaxis": [
+                  -1.0,
+                  3.46945e-18,
+                  0.0
+                ]
+              }
+            },
+            "is_volume": false
+          }
+        }
+      ],
+      "father": null,
+      "frame": {
+        "init": [
+          [
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      },
+      "hidden": false,
+      "index": "",
+      "locked": true,
+      "name": "TELESCOPEASSEMBLY_ASM",
+      "position": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ]
+}
