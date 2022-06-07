@@ -1,7 +1,5 @@
 # Benchmark 6. "Model-based design reviews"
 
-This is a template that details the expected Minimum Viable Content of a benchmark including the documentation and the data.
-
 ## Introduction
 
 Today, the most common practice to coordinate content consists in sharing screenshots of models in a slide deck [7], which makes the understanding of models and the identification of relationships between the models difficult [7], [8]. Research studies try to improve design reviews by proposing new mediation technologies, but they show a lack of rigour in the validation phase. This repository proposes an open benchmark exercise for comparing model-based design reviews.
@@ -15,10 +13,10 @@ Today, the most common practice to coordinate content consists in sharing screen
 
 ## Glossary
 
-- Model-Base Design (synonyms: Model-Centric Design, Model-Based Systems Engineering, Model-Centric Systems Engineering, Model-Based Engineering, etc.): formalized application of modeling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases (INCOSE, 2007)
-- View (synonyms: viewpoint, perspective, cognitive view): result of an interpretation process that starts from the observation of an existing object, or from the imagination of a planned object, which then leads to the creation to a set of models according to a stakeholder viewpoint, that is, a set of particular concerns in regards to the real or planned
+- **Model-Base Design** *(synonyms: Model-Centric Design, Model-Based Systems Engineering, Model-Centric Systems Engineering, Model-Based Engineering, etc.)*: formalized application of modeling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases (INCOSE, 2007)
+- **View** *(synonyms: viewpoint, perspective, cognitive view)*: result of an interpretation process that starts from the observation of an existing object, or from the imagination of a planned object, which then leads to the creation to a set of models according to a stakeholder viewpoint, that is, a set of particular concerns in regards to the real or planned
 object.
-- Model (synonym: representation, intermediate object, intermediate representation): a subjective partial description of an existing or planned technical object, which results from an abstraction according to a particular view, and that is put forward as a basis for some purpose, such as calculations, communication, etc.
+- **Model** *(synonym: representation, intermediate object, intermediate representation)*: a subjective partial description of an existing or planned technical object, which results from an abstraction according to a particular view, and that is put forward as a basis for some purpose, such as calculations, communication, etc.
 
 ## Goals
 
@@ -51,7 +49,7 @@ Cognitive load: NASA/TLX
 
 ## Datasets
 
-- GO‑TO Celestron NExstar telescope
+- [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope)
 - Dataset 2
 - Dataset ...
 
