@@ -2,14 +2,14 @@
 
 ## Introduction
 
-Today, the most common practice to coordinate content consists in sharing screenshots of models in a slide deck [7], which makes the understanding of models and the identification of relationships between the models difficult [7], [8]. Research studies try to improve design reviews by proposing new mediation technologies, but they show a lack of rigour in the validation phase. This repository proposes an open benchmark exercise for comparing model-based design reviews.
+Today, the most common practice to coordinate content consists in sharing screenshots of models in a slide deck [7], which makes the understanding of models and the identification of relationships between the models difficult [7], [8]. Research studies try to improve design reviews by proposing new mediation technologies, but they show a lack of rigour in the validation phase. This repository proposes an open benchmark exercise for comparing digital materials supporting model-based design reviews.
 
 - Type of research : quantitative
 - Main discipline(s) it contributes to : engineering design, especially model-based systems engineering
 - The goal of the study : to improve design, especially model-based design reviews 
 - The type of contribution : empirical to practice
-- Objects to validate : tools for reviewing model-based designs.
-- Expected results : a cartography of strengths and weeknesses of tools for reviewing model-based designs.
+- Objects to validate : comparing digital materials supporting model-based design reviews
+- Expected results : a cartography of strengths and weeknesses of tools for reviewing model-based designs
 
 ## Glossary
 
