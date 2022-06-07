@@ -27,8 +27,7 @@ Specify the common set of goals that the competing solutions pursue:
 
 # Solutions
 
-In the folder named [solutions](), you should collect the competing solutions.
--> Add VR solution
+1. [Graph-Based Virtual Reality Environment for Reviewing Model-Based Designs](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization)
 
 ## Measures of Performance
 
