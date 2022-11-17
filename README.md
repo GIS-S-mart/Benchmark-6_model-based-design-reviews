@@ -20,17 +20,21 @@ object.
 
 ## Goals
 
-Specify the common set of goals that the competing solutions pursue:
+The common goals that the candidate solutions pursue are:
 - The solution shall enable design review participants to share a common understanding of intermediate representations.
 - The solution shall enable design review participants to trace intermediate representations vertically, that is, from one systemic level to another (top-down and bottom-up).
 - The solution shall enable design review participants to trace intermediate representations vertically, that is, throughout the product development phases and, in a more general way, throughout the system life cycle phases.
 
-# Solutions
+## Solutions
+
+The candidate solutions to benchmark are:
 
 1. [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx)
 1. [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization)
 
 ## Measures of Performance
+
+The benchmarking of the candidate solutions relies on the following measures of performance:
 
 - **Criteria 1 (C1) is a score that measures the level of understanding of the multi-view model-based design.**
 
@@ -52,6 +56,8 @@ Understanding of the multi-view model-based design with access to the design rev
 
 ## Datasets
 
+The datasets used to benchmark the candidate solutions are:
+
 - [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope)
 
 ## Comparison
@@ -66,6 +72,9 @@ Understanding of the multi-view model-based design with access to the design rev
 | C4   |                             66,4                             |                          74,2                          |
 | C5   |                             50,4                             |                          42,9                          |
 
-
 ## Meta-Analysis
+
+
+
+## References
 
