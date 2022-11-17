@@ -13,7 +13,7 @@ Today, the most common practice to coordinate content consists in sharing screen
 
 ## Glossary
 
-- **Model-Base Design** *(synonyms: Model-Centric Design, Model-Based Systems Engineering, Model-Centric Systems Engineering, Model-Based Engineering, etc.)*: formalized application of modeling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases (INCOSE, 2007)
+- **Model-Base Design** *(synonyms: Model-Centric Design, Model-Based Systems Engineering, Model-Centric Systems Engineering, Model-Based Engineering, etc.)*: formalized application of modelling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases (INCOSE, 2007)
 - **View** *(synonyms: viewpoint, perspective, cognitive view)*: result of an interpretation process that starts from the observation of an existing object, or from the imagination of a planned object, which then leads to the creation to a set of models according to a stakeholder viewpoint, that is, a set of particular concerns in regards to the real or planned
 object.
 - **Model** *(synonym: representation, intermediate object, intermediate representation)*: a subjective partial description of an existing or planned technical object, which results from an abstraction according to a particular view, and that is put forward as a basis for some purpose, such as calculations, communication, etc.
@@ -27,7 +27,7 @@ Specify the common set of goals that the competing solutions pursue:
 
 # Solutions
 
-1. Screenshots of SysML diagrams in a PowerPoint presentation
+1. [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx)
 1. [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization)
 
 ## Measures of Performance
