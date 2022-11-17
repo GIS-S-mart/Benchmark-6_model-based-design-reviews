@@ -64,13 +64,13 @@ The datasets used to benchmark the candidate solutions are:
 
 - Comparison based on the [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope) dataset
 
-|      | Screenshots of SysML diagrams in a PowerPoint presentation [Romero, 2022] | Graph-Based Virtual Reality Environment [Romero, 2022] |
-| ---- | :----------------------------------------------------------: | :----------------------------------------------------: |
-| C1   |                             13,1                             |                           12                           |
-| C2   |                             11,4                             |                          15,4                          |
-| C3   |                             27,6                             |                          25,9                          |
-| C4   |                             66,4                             |                          74,2                          |
-| C5   |                             50,4                             |                          42,9                          |
+|      | [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx) [Romero, 2022] | [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization) [Romero, 2022] |
+| ---- | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| C1   |                             13,1                             |                              12                              |
+| C2   |                             11,4                             |                             15,4                             |
+| C3   |                             27,6                             |                             25,9                             |
+| C4   |                             66,4                             |                             74,2                             |
+| C5   |                             50,4                             |                             42,9                             |
 
 ## Meta-Analysis
 
