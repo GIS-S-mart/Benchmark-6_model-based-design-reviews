@@ -27,12 +27,12 @@ The common goals that the candidate solutions pursue are:
 
 ## Solutions
 
-The candidate solutions to benchmark are:
+The candidate solutions are:
 
 1. [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx)
-1. [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization)
+1. [Graph-Based Virtual Reality Environment](https://rpinquie.github.io/projects/vr_mbse_review/index.html)
 
-## Measures of Performance
+## Metrics
 
 The benchmarking of the candidate solutions relies on the following measures of performance:
 
@@ -54,17 +54,17 @@ Understanding of the multi-view model-based design with access to the design rev
 - **Criteria 4 (C4) is the SUS score of usability of the multi-view model-based design environment**
 - **Criteria 5 (C5) is the NASA/TLX score measuring the cognitive load of the activity** 
 
-## Datasets
+## Benchmark exercises
 
 The datasets used to benchmark the candidate solutions are:
 
 - [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope)
 
-## Comparison
+## Benchmarking
 
-- Comparison based on the [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope) dataset
+The comparison of candidate solutions evaluated on the [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope) benchmark exercise based on the metrics defined above is shown below.  
 
-|      | [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx) [Romero, 2022] | [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r/projets/vrgraphvisualization) [Romero, 2022] |
+|      | [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx) [Romero, 2022] | [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/vrgraphvisualization) [Romero, 2022] |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | C1   |                             13,1                             |                              12                              |
 | C2   |                             11,4                             |                             15,4                             |
