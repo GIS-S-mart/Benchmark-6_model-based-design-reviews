@@ -77,4 +77,4 @@ The comparison of candidate solutions evaluated on the [GO‑TO Celestron NExsta
 
 
 ## References
-
+Romero, V (2020) [Un environnement virtuel immersif, interactif et collaboratif pour les revues de conception basées sur les modèles. PhD Thesis, University Grenoble Alpes.](https://theses.hal.science/tel-04048678)
