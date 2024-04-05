@@ -14,16 +14,16 @@ Today, the most common practice to coordinate content in Model-Centric Design re
 ## Glossary
 
 - **Model-Base Design** *(synonyms: Model-Centric Design, Model-Based Systems Engineering, Model-Centric Systems Engineering, Model-Based Engineering, etc.)*: formalized application of modelling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases (INCOSE, 2007)
-- **View** *(synonyms: viewpoint, perspective, cognitive view)*: result of an interpretation process that starts from the observation of an existing object, or from the imagination of a planned object, which then leads to the creation to a set of models according to a stakeholder viewpoint, that is, a set of particular concerns in regards to the real or planned
+- **View** *(synonyms: viewpoint, perspective, cognitive view)*: result of an interpretation process that starts from the observation of an existing object or from the imagination of a planned object, which then leads to the creation of a set of models according to a stakeholder viewpoint, that is, a set of particular concerns in regards to the real or planned
 object.
-- **Model** *(synonym: representation, intermediate object, intermediate representation)*: a subjective partial description of an existing or planned technical object, which results from an abstraction according to a particular view, and that is put forward as a basis for some purpose, such as calculations, communication, etc.
+- **Model** *(synonym: representation, intermediate object, intermediate representation)*: a subjective partial description of an existing or planned technical object that results from an abstraction according to a particular view and is put forward as a basis for some purpose, such as calculations, communication, etc.
 
 ## Goals
 
 The common goals that the candidate solutions pursue are:
 - The solution shall enable design review participants to share a common understanding of intermediate representations.
-- The solution shall enable design review participants to trace intermediate representations vertically, that is, from one systemic level to another (top-down and bottom-up).
-- The solution shall enable design review participants to trace intermediate representations vertically, that is, throughout the product development phases and, in a more general way, throughout the system life cycle phases.
+- The solution shall enable design review participants to trace intermediate representations vertically, from one systemic level to another (top-down and bottom-up).
+- The solution shall enable design review participants to trace intermediate representations vertically, that is, throughout the product development phases and, more generally, throughout the system life cycle phases.
 
 ## Solutions
 
@@ -44,7 +44,7 @@ Understanding of the multi-view model-based design with access to the design rev
 3.	What is the name of the stakeholder which needs the requirement “Req Manual-ly pilot inclination position” to be met?
 To avoid answering all the questions in a row, they are displayed one by one. 
 
-Understanding of the multi-view model-based design with access to the design review environment:
+Understanding of the multi-view model-based design without access to the design review environment:
 1.	What are the stakeholders of the telescope?
 2.	What are the sub-logical blocks (of the behaviour model) of the telescope?
 3.	What are the stakeholders of the sub-system “MechanicalSubSystem” (in the architecture model)? 
@@ -58,11 +58,11 @@ Understanding of the multi-view model-based design with access to the design rev
 
 The datasets used to benchmark the candidate solutions are:
 
-- [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope)
+- [GO‑TO Celestron Nexstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope)
 
 ## Benchmarking
 
-The comparison of candidate solutions evaluated on the [GO‑TO Celestron NExstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope) benchmark exercise based on the metrics defined above is shown below.  
+The comparison of candidate solutions evaluated on the [GO‑TO Celestron Nexstar telescope](https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/tree/main/datasets/Telescope) benchmark exercise based on the metrics defined above is shown below.  
 
 |      | [Screenshots of SysML diagrams in a PowerPoint presentation](datasets/Telescope/Slides/Telescope_expe.pptx) [Romero, 2022] | [Graph-Based Virtual Reality Environment](https://gricad-gitlab.univ-grenoble-alpes.fr/vision-r-public/vrgraphvisualization) [Romero, 2022] |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: |
